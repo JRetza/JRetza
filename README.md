@@ -1,9 +1,1 @@
-[![JR's github stats](https://github-readme-stats.vercel.app/api?username=JRetza&count_private=true&show_icons=true&hide=stars)](https://github.com/JRetza)
-
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=cog)](https://github.com/JRetza)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=datawave)](https://github.com/JRetza)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=lemongraph)](https://github.com/JRetza)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=lemongrenade)](https://github.com/JRetza)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=serverless)](https://github.com/JRetza)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JRetza&repo=yeti)](https://github.com/JRetza) -->
+[![JR's github stats](https://github-readme-stats.vercel.app/api?username=JRetza&title_color=000000&text_color=DD0000&icon_color=DD0000&include_all_commits=true&count_private=true&show_icons=true&hide=stars)](https://github.com/JRetza)
